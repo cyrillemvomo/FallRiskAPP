@@ -1,0 +1,2 @@
+,Label,auroc_train,accuracy_train,specificity_train,sensitivity_train (recall),precision_train,PPV_train,NPV_train,auroc_test,accuracy_test,specificity_test,sensitivity_test (recall),precision_test,PPV_test,NPV_test
+0,Support Vector Machine,0.9700374531835205,0.9455782312925171,0.9400749063670412,1.0,0.627906976744186,0.627906976744186,0.9400749063670412,0.9666666666666667,0.9393939393939394,0.9333333333333333,1.0,0.6,0.6,0.9333333333333333

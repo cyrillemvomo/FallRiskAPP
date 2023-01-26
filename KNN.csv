@@ -1,0 +1,2 @@
+,Label,auroc_train,accuracy_train,specificity_train,sensitivity_train (recall),precision_train,PPV_train,NPV_train,auroc_test,accuracy_test,specificity_test,sensitivity_test (recall),precision_test,PPV_test,NPV_test
+0,KNN,0.6258843112775697,0.9251700680272109,0.9925093632958801,0.25925925925925924,0.7777777777777778,0.7777777777777778,0.9925093632958801,0.7166666666666667,0.9393939393939394,0.9888888888888889,0.4444444444444444,0.8,0.8,0.9888888888888889
